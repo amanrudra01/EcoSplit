@@ -23,7 +23,7 @@ Model training is performed using a Convolutional Neural Network (CNN) in Tensor
 
 ---
 
-##🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 - Integrate real-time camera feed for live waste detection
 - Add support for recyclable waste category
@@ -32,8 +32,9 @@ Model training is performed using a Convolutional Neural Network (CNN) in Tensor
 
 ---
 
-## Dataset Structure
+## 📊 Dataset Structure
 
+```
 dataset/
 │
 ├── train/
@@ -51,7 +52,7 @@ dataset/
   └── organic/
     │ ├── img1.jpg
     │ └── ...
-
+```
 
 ---
 
