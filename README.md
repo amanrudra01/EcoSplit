@@ -65,6 +65,12 @@ dataset/
 ├── dataset/                    # Training dataset
 ```
 
+---
+
+## Author
+
+Created by Aman Chand.
+
 
 
 
