@@ -1,4 +1,4 @@
-# EcoSplit
+# EcoSplit: Automated Waste Segregation
 
 **EcoSplit** is an AI-powered automated waste segregation system that classifies waste into categories such as **organic** and **inorganic** using image processing and machine learning. Currently, the system works with static images, and real-time camera-based waste detection is planned as a future enhancement. EcoSplit aims to support sustainable waste management in smart cities through intelligent automation.
 
