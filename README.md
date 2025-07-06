@@ -1,5 +1,10 @@
 # EcoSplit: Automated Waste Segregation
 
+![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat-square&logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Used-orange?style=flat-square&logo=tensorflow)
+![OpenCV](https://img.shields.io/badge/OpenCV-Image%20Processing-success?style=flat-square&logo=opencv)
+![CNN](https://img.shields.io/badge/CNN-Model-green?style=flat-square)
+
 **EcoSplit** is an AI-powered automated waste segregation system that classifies waste into categories such as **organic** and **inorganic** using image processing and machine learning. Currently, the system works with static images, and real-time camera-based waste detection is planned as a future enhancement. EcoSplit aims to support sustainable waste management in smart cities through intelligent automation.
 
 ---
