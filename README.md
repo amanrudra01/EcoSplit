@@ -71,7 +71,10 @@ dataset/
 ```
 
 ---
+📄 License
 
+MIT License © 2025 Aman Chand
+---
 ## Author
 
 Created by Aman Chand.
